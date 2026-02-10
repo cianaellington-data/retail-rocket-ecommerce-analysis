@@ -1,7 +1,4 @@
 # Retail Rocket E-commerce Capstone
-
-# Retail Rocket E-commerce Capstone
-
 This capstone analyzes 2.7M+ e-commerce events from the Retail Rocket platform using R and the tidyverse.
 
 ## Overview
