@@ -26,9 +26,6 @@ Goal: Understand user behavior, conversion trends, and top-performing products t
 
 ---
 
-## Files
-- `Retail_Rocket_Capstone.ipynb` — Full analysis with charts  
-- `Retail_Rocket_Capstone.html` — Rendered notebook for easy viewing  
 
 ---
 
