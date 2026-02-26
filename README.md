@@ -41,3 +41,7 @@ Goal: Understand user behavior, conversion trends, and top-performing products t
 
 ---
 
+## Interactive Version
+
+🔗 **View the full Kaggle notebook:**  
+[Retail Rocket E-Commerce Capstone](https://www.kaggle.com/code/cianaellington/retail-rocket-ecommerce-capstone)
