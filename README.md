@@ -1,18 +1,5 @@
 # RetailRocket E-commerce Customer Behavior Analysis
 
-## Table of Contents
-
-1. [Overview](#overview)  
-2. [Business Questions](#business-questions)  
-3. [Business Problem](#business-problem)  
-4. [Tools & Skills](#tools--skills)  
-5. [Dataset](#dataset)  
-6. [Key Visualization](#key-visualization)  
-7. [Insights & Takeaways](#insights--takeaways)  
-8. [Limitations](#limitations)  
-9. [Connect with Me](#connect-with-me)
-
-
 ## Project Overview
 This project analyzes customer interaction data from an e-commerce platform using the RetailRocket dataset. The goal is to explore how users interact with products and identify patterns in browsing behavior, cart activity, and purchases.
 
