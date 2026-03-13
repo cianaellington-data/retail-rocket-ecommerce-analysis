@@ -7,6 +7,15 @@ Using R for data analysis, this project focuses on understanding customer engage
 
 ---
 
+## Business Questions
+
+1. Which products receive the most views?
+2. How often do product views convert to add-to-cart actions?
+3. What user behaviors are most associated with purchases?
+4. Where in the conversion funnel do most users drop off?
+
+---
+
 ## Business Problem
 E-commerce companies collect large volumes of behavioral data, but turning that data into actionable insights can be challenging.
 
@@ -50,15 +59,6 @@ These events allow analysis of how customers move through the purchasing journey
 - Behavioral data analysis
 - Data visualization
 - R programming
-
----
-
-## Business Questions
-
-1. Which products receive the most views?
-2. How often do product views convert to add-to-cart actions?
-3. What user behaviors are most associated with purchases?
-4. Where in the conversion funnel do most users drop off?
 
 ---
 
