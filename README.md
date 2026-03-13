@@ -69,6 +69,14 @@ These events allow analysis of how customers move through the purchasing journey
 
 ---
 
+## Limitations
+
+- The dataset is anonymized, so user demographic data is limited.  
+- Analysis is based on historical data only; no predictive modeling was performed.  
+- Insights may not generalize to other e-commerce platforms or indu
+
+---
+
 ## Future Improvements
 
 - Build a predictive model to estimate purchase probability
