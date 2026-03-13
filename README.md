@@ -63,7 +63,7 @@ These events allow analysis of how customers move through the purchasing journey
 ---
 
 ## Key Visualization
-
+![Customer Behavior Conversion Funnel](visualizations/conversion_funnel_chart.png)
 
 **Figure:** Conversion funnel showing how users move from product views → add-to-cart → purchase. This chart highlights areas where customer engagement drops, helping businesses optimize their e-commerce strategy.
 
