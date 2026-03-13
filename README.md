@@ -83,7 +83,10 @@ These events allow analysis of how customers move through the purchasing journey
 Ciana Ellington  
 Data Analyst focused on using data to uncover insights and support business decision-making.
 
-**Connect with me:** [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Portfolio](
+**Connect with me:** 
+
+- **Portfolio:** [cianaellington.com](https://sites.google.com/view/cianaellington)  
+- **LinkedIn:** [Ciana Ellington](https://www.linkedin.com/in/cianaellington-dataanalytics)
 
 ---
 
