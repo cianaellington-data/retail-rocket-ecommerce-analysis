@@ -76,7 +76,7 @@ This allows analysis of full customer journeys from discovery to purchase.
 
 - The dataset is anonymized, so user demographic data is limited.  
 - Analysis is based on historical data only; no predictive modeling was performed.  
-- Insights may not generalize to other e-commerce platforms or indu
+- Insights may not generalize to other e-commerce platforms or industries.
 
 ---
 
