@@ -54,7 +54,7 @@ This allows analysis of full customer journeys from discovery to purchase.
 
 ---
 
-## Skills Demonstrated
+### Skills Demonstrated
 
 - Data cleaning and preprocessing
 - Exploratory data analysis
@@ -99,9 +99,4 @@ Data Analyst focused on using data to uncover insights and support business deci
 - **Portfolio:** [cianaellington.com](https://sites.google.com/view/cianaellington)  
 - **LinkedIn:** [Ciana Ellington](https://www.linkedin.com/in/cianaellington-dataanalytics)
 
----
-### 📌 Portfolio Link
 
-This project is part of my data analytics portfolio:
-
-👉 https://cianaellington-data.github.io
