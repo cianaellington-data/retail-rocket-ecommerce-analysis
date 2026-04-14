@@ -1,54 +1,56 @@
-# RetailRocket E-commerce Customer Behavior Analysis
+## 🛍️ Retail Rocket E-Commerce Behavior Analysis
 
-## Project Overview
-This project analyzes customer interaction data from an e-commerce platform using the RetailRocket dataset. The goal is to explore how users interact with products and identify patterns in browsing behavior, cart activity, and purchases.
+### 📌 Project Overview
+This project analyzes large-scale e-commerce behavioral data (product views, cart additions, and transactions) to understand how users interact with products and where drop-offs occur in the purchase journey.
 
-Using R for data analysis, this project focuses on understanding customer engagement and identifying behaviors that may lead to higher conversion rates.
-
----
-
-## Business Questions
-
-1. Which products receive the most views?
-2. How often do product views convert to add-to-cart actions?
-3. What user behaviors are most associated with purchases?
-4. Where in the conversion funnel do most users drop off?
+The goal is to translate raw user interaction data into actionable business insights that can improve conversion rates, product engagement, and recommendation strategies.
 
 ---
 
-## Business Problem
-E-commerce companies collect large volumes of behavioral data, but turning that data into actionable insights can be challenging.
+### 🎯 Business Questions
+This analysis is designed to answer:
 
-This analysis addresses questions such as:
-
-- Which products receive the most views?
-- How often do users move from viewing a product to adding it to their cart?
-- What interaction patterns are associated with purchases?
-
-Insights from this analysis can help businesses improve product recommendations, optimize marketing strategies, and increase customer engagement.
+- Where do users drop off in the e-commerce funnel?
+- Which products receive high engagement but low conversions?
+- What behaviors indicate strong purchase intent?
+- How can product recommendations be improved using behavioral data?
 
 ---
 
-## Tools & Technologies
+### 📊 Dataset Description
+The dataset contains anonymized user interaction events from an e-commerce platform, including:
 
-- R
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
+- Product view events  
+- Add-to-cart events  
+- Transaction events  
+- Product metadata (categories, item IDs)  
+- User interaction timestamps  
+
+This allows analysis of full customer journeys from discovery to purchase.
 
 ---
 
-## Dataset
+### 📈 Key Metrics Analyzed
 
-**RetailRocket E-commerce Dataset**
+- View → Cart conversion rate  
+- Cart → Purchase conversion rate  
+- Overall funnel drop-off rate  
+- Product-level engagement vs conversion  
+- Category-level performance  
+- High-intent user behavior patterns  
 
-The dataset contains user interaction events, including:
+---
 
-- Product views
-- Add-to-cart actions
-- Purchases
+### 🔎 Key Insights
 
-These events allow analysis of how customers move through the purchasing journey on an e-commerce platform.
+- A significant portion of users drop off after viewing products but before adding to cart, suggesting a **top-of-funnel engagement issue**.
+
+- Several high-traffic products show low conversion rates, indicating potential issues with **pricing, product clarity, or trust signals**.
+
+- Certain product categories generate high engagement but low revenue contribution, highlighting opportunities for **better recommendation targeting**.
+
+- Repeat engagement behavior suggests strong potential for **personalized recommendation systems**.
+.
 
 ---
 
@@ -59,6 +61,7 @@ These events allow analysis of how customers move through the purchasing journey
 - Behavioral data analysis
 - Data visualization
 - R programming
+- Behavioral segmentation  
 
 ---
 
@@ -97,7 +100,8 @@ Data Analyst focused on using data to uncover insights and support business deci
 - **LinkedIn:** [Ciana Ellington](https://www.linkedin.com/in/cianaellington-dataanalytics)
 
 ---
+### 📌 Portfolio Link
 
+This project is part of my data analytics portfolio:
 
-🔗 **View the full Kaggle notebook:**  
-[Retail Rocket E-Commerce Capstone](https://www.kaggle.com/code/cianaellington/retail-rocket-ecommerce-capstone)
+👉 https://cianaellington-data.github.io
